@@ -1,0 +1,6 @@
+weather.bbc.co.uk,112 
+ads.facebook.com,113 
+ads.amazon.co.uk,114 
+www.sky.com,115 
+news.bbc.co.uk,116 
+pics.facebook.com,117

@@ -1,0 +1,4 @@
+facebook.com,facebook 
+bbc.co.uk,bbc 
+netflix.com,netflix 
+flipkart.com,flipkart
